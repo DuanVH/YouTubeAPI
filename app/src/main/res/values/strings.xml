@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YouTubeAPI</string>
+    <string name="errorReason">YouTubeAPI</string>
+    <string name="player_error">play error</string>
+</resources>
