@@ -3,4 +3,7 @@
     <string name="errorReason">YouTubeAPI</string>
     <string name="player_error">play error</string>
     <string name="text_mail">ahihi@gmail.com</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
 </resources>
